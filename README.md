@@ -28,7 +28,11 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/100348648-db6d6180-2fef-11eb-8fea-e75047e57b3c.png"/>
 
  <br />
-   
+  
+#### Currently studying 📚 📖
+<img align="left" width="70px" src="http://www.endeev.com/wp-content/uploads/2018/01/nodejs-34c5f8cc37f0756108c490a903d80176.png" >
+
+  <br />  
   
 #### Connect with me 📫
 
