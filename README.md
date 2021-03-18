@@ -32,4 +32,4 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 
 [<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png"/>][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/hay-asa/
+[linkedin]: https://www.linkedin.com/in/hay-asa
