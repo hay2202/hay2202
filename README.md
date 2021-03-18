@@ -1,4 +1,6 @@
-## Hi there, i'm Hay Asa 👋 <img width="128" alt="_קובץ מאת tomlatin (1)" src="https://user-images.githubusercontent.com/57855070/98300636-3946f480-1fc2-11eb-8306-764815770219.png">
+## Hi there 👋, i'm Hay Asa  <img src="https://storage.ko-fi.com/cdn/useruploads/post/png_kofi_bc96b74e-f004-4a40-aecc-19ded651ab96b9d9934157e17635483c4523803d99e2-sticker.png" width="128" title="hover text">
+
+
 
 I'm currently a second year student in computer science at Ariel University 💻
 
