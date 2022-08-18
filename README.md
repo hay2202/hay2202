@@ -11,7 +11,8 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98301894-33521300-1fc4-11eb-860e-f06c2a2e9dce.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302169-9c398b00-1fc4-11eb-9734-1c075d91db98.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302891-e8d19600-1fc5-11eb-88ff-96a990f80521.png"/>
-<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302338-e1f65380-1fc4-11eb-95ae-ad38f2c4fc13.png"/> <br />
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302338-e1f65380-1fc4-11eb-95ae-ad38f2c4fc13.png"/> 
+<img align="left" width="70px" src="http://www.endeev.com/wp-content/uploads/2018/01/nodejs-34c5f8cc37f0756108c490a903d80176.png" > <br />
 
 <br />
 
@@ -29,10 +30,6 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 
  <br />
   
-#### Currently studying 📚 📖
-<img align="left" width="70px" src="http://www.endeev.com/wp-content/uploads/2018/01/nodejs-34c5f8cc37f0756108c490a903d80176.png" >
-
-  <br />  
   
 #### Connect with me 📫
 
