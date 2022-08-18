@@ -2,7 +2,7 @@
 
 
 
-I'm currently a second year student in computer science at Ariel University 💻
+Computer science graduate at Ariel University 💻
 
 I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
 
